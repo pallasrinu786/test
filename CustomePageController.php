@@ -37,6 +37,9 @@ class CustomePageController extends CI_Controller {
 	     $this->Staticpagefunctions=new Staticpagefunctions();
 	     
 	 }
+	
+	public function getNewVisiotrs(){
+	}
 	 
 	  public function getVisitorCount()
 	 {
